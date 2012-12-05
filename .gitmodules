@@ -1,0 +1,15 @@
+[submodule "solo-search"]
+	path = solo-search
+	url = git@github.com:DonorsChoose/chef-solo-search.git
+[submodule "yum"]
+	path = yum
+	url = git@github.com:DonorsChoose/chef-yum.git
+[submodule "user"]
+	path = user
+	url = git@github.com:DonorsChoose/chef-user.git
+[submodule "sysctl"]
+	path = sysctl
+	url = git@github.com:DonorsChoose/chef-sysctl.git
+[submodule "cloudkick"]
+	path = cloudkick
+	url = git@github.com:DonorsChoose/chef-cloudkick.git
