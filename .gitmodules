@@ -13,3 +13,12 @@
 [submodule "cloudkick"]
 	path = cloudkick
 	url = git@github.com:DonorsChoose/chef-cloudkick.git
+[submodule "openssl"]
+	path = openssl
+	url = git@github.com:DonorsChoose/chef-openssl.git
+[submodule "database"]
+	path = database
+	url = git@github.com:DonorsChoose/chef-database.git
+[submodule "postgresql"]
+	path = postgresql
+	url = git@github.com:DonorsChoose/chef-postgresql.git
