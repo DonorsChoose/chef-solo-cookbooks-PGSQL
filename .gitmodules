@@ -22,3 +22,12 @@
 [submodule "postgresql"]
 	path = postgresql
 	url = git@github.com:DonorsChoose/chef-postgresql.git
+[submodule "build-essential"]
+	path = build-essential
+	url = git@github.com:DonorsChoose/chef-build-essential.git
+[submodule "collectd"]
+	path = collectd
+	url = git@github.com:DonorsChoose/chef-collectd.git
+[submodule "sudo"]
+	path = sudo
+	url = git@github.com:DonorsChoose/chef-sudo.git
